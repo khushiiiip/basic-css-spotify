@@ -1,2 +1,2 @@
 # basic-css-spotify
-spotify landing page clone using vanilla css
+spotify landing page using vanilla css
